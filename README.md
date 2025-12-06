@@ -159,7 +159,7 @@ flowchart TD
 <a id="results--evaluation"></a>
 ## 📈 **Results & Evaluation**
 **Model Performance:** Attrition (92.3% acc, F1=0.90, ROC-AUC=0.94). Resume Matching (Top-1=73%, Top-5=96%, &lt;3s).  
-**Business Impact:** Saves 35.5 hrs weekly per analyst, avoids $235k attrition cost, delivers significant ROI in year one, +28% decision-making quality.  
+**Business Impact:** Projected efficiency gains and cost avoidance modeled on Deloitte industry benchmarks. The platform demonstrates significant potential to reduce manual reporting hours, mitigate attrition costs, and enhance strategic decision-making quality through automation.
 **Ethical AI:** &lt;3% demographic variance, GDPR-compliance, explainable NLP-based insights, accessibility-first visuals.  
 
 [Back to top](#top)
