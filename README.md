@@ -35,7 +35,7 @@ A comprehensive HR analytics platform that transforms traditional HR management 
 The HR Intelligence Platform leverages cutting-edge AI technologies to deliver:
 
 - **92.3% accuracy** in attrition prediction  
-- **86.6% reduction** in manual reporting effort  
+- **46.6% reduction** in manual reporting effort  
 - **96% Top-5 accuracy** in resume-job matching  
 - **Real-time AI-powered insights** with natural language explanations
 
